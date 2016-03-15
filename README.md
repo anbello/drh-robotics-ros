@@ -1,6 +1,7 @@
 # drh-robotics-ros
 Automatically exported from code.google.com/p/drh-robotics-ros
 
+Original Author: Dr Rainer Hessmer (http://www.hessmer.org/blog/tag/ros/)
 
 Hobby robotics ROS Integration
 
